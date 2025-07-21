@@ -29,3 +29,10 @@ Ducks are learning how to create a new repo and how to write markdown.
 ### From Internal source.
 
 ![Harry Potter Characters](/harry-potter-charactes.jpeg)
+
+
+## Code.
+
+### Inline code.
+
+I want to know if for you `i=2` at the end.
