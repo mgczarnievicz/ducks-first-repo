@@ -1,3 +1,11 @@
 # Ducks First Repo.
 
 Ducks are learning how to create a new repo and how to write markdown.
+
+
+## List in Md.
+
+### Order List.
+1. Fisrt Item
+2. Second Item
+3. Third Item
