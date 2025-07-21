@@ -36,3 +36,9 @@ Ducks are learning how to create a new repo and how to write markdown.
 ### Inline code.
 
 I want to know if for you `i=2` at the end.
+
+### Block code.
+
+```js
+let cohortName = "Ducks";
+```
