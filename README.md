@@ -14,3 +14,7 @@ Ducks are learning how to create a new repo and how to write markdown.
 - First Item
 - Second Item
 - Third Item
+
+## Link a Page.
+
+[NF Page](https://www.neuefische.de/)
