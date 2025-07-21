@@ -18,3 +18,10 @@ Ducks are learning how to create a new repo and how to write markdown.
 ## Link a Page.
 
 [NF Page](https://www.neuefische.de/)
+
+
+## Images.
+
+### From External source.
+
+![Ducks](https://i0.wp.com/maineaudubon.org/wp-content/uploads/2021/06/DougHitchcoxMallard01.jpg?resize=1024%2C525&ssl=1)
